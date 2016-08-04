@@ -1,6 +1,6 @@
 {
   "name": "yayornay",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "UMD module that \"randomly\" returns 1 (yay) or 0 (nay).",
   "main": "index.js",
   "scripts": {
