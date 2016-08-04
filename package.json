@@ -1,11 +1,25 @@
 {
   "name": "yayornay",
   "version": "1.0.0",
-  "description": "",
+  "description": "UMD module that \"randomly\" returns 1 (yay) or 0 (nay).",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Marc Dix",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdix/yayornay.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mdix/yayornay/issues"
+  },
+  "homepage": "https://github.com/mdix/yayornay",
+  "keywords": [
+    "random",
+    "boolean",
+    "true",
+    "false"
+  ]
 }
